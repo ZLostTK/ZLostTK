@@ -37,6 +37,7 @@
   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white"></a>
   <a href="#"><img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-41CD52.svg?logo=qt&logoColor=white"></a>
   <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwind-css&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
 <h4 align="center">⚙ Software</h4>
