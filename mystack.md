@@ -67,3 +67,27 @@
 * **Tools**: Figma (diseño), Postman
 
 👉 Caso: Hackathons, validación de ideas, prototipos de startups.
+
+---
+Stack base SaaS: 
+1. Lenguaje: TS/JS
+2. Next.js
+3. Database: Supabase (no usar features solo base de datos pura.)
+4. Prisma
+5. Gestión de estados: Zustand
+6. Interfaz: Tailwind y ShadCDN
+7. Para componentes más elaborados: HeroUI 
+8. Auth0 para gestión de cuentas Login con X(twitter), google o Github (evitar almacenar datos de usuario y contraseña para evitar conflictos. datos sencibles en general)
+9. Pagos: Stripe
+10. Zod: validación de formularios
+
+Que debe contener el boiler plate:
+1. Notificaciónes toast
+2. Pagínas de login
+3. archivos para que este optimizado para claude code o cursor es decir las rules o notepads.
+4. preparado para SEO
+5. funcionalidad de generar sitemaps automaticamente con cada actualización
+
+MCP:
+supabase MCP
+browser MCP
