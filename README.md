@@ -5,6 +5,8 @@
 
 <p align="center">
   <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=zlosttk&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <br>
+  <a href="https://github.com/ZLostTK/github-readme-stats?tab=readme-ov-file#top-languages-card"><img height="100%" width="auto" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZLostTK&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
 </p>
 
 <p align="center">
