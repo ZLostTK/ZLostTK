@@ -4,11 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anxergm/) [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anxergm)
 
 <p align="center">
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=zlosttk&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <br>
-</p>
-
-<p align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=zlosttk&hide=prs,stars&show_icons=true&theme=tokyonight&border_color=03014F" alt="ZLostTK Streak Stats" width="auto" height="100%" />
 </p>
 <table align="center">
