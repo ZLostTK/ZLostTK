@@ -20,20 +20,48 @@
 <h4 align="center">💻 Programming languages (and html)</h4>
 
 <p align="center">
-<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"></a>
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-<img alt="Powershell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white"></a>
-<img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white"></a>
-<img alt="Yara" src="https://custom-icon-badges.demolab.com/badge/Yara-68217A.svg?logo=VirusTotal&logoColor=white"></a>
-<img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-<img alt="JSON" src="https://img.shields.io/badge/JSON-5E5C5C.svg?logo=json&logoColor=white">
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+</a>
+<a href="https://www.php.net/" target="_blank">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+</a>
+<a href="https://www.markdownguide.org/" target="_blank">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+</a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
+  <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white">
+</a>
+<a href="https://learn.microsoft.com/en-us/windows/terminal/" target="_blank">
+  <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?logo=windows-terminal&logoColor=white">
+</a>
+<a href="https://yara.readthedocs.io/" target="_blank">
+  <img alt="Yara" src="https://custom-icon-badges.demolab.com/badge/Yara-68217A.svg?logo=VirusTotal&logoColor=white">
+</a>
+<a href="https://www.w3schools.com/sql/" target="_blank">
+  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+</a>
+<a href="https://www.json.org/" target="_blank">
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-5E5C5C.svg?logo=json&logoColor=white">
+</a>
 </p>
 
 <h4 align="center">📚 Frameworks and Libraries</h4>
